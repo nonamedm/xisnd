@@ -78,6 +78,14 @@
                           </ul>
                         </li>
 
+                        <li class="dropdown"> <a href="<?php echo site_url('page/hr/167');?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">인재채용</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="<?php echo site_url('page/individual/167/168');?>">문의하기</a></li>
+                                <li><a href="<?php echo site_url('page/hrsystem/167/169');?>">다운로드</a></li>
+                                <li><a href="<?php echo site_url('page/hrguide/167/170');?>">오시는길</a></li>
+                          </ul>
+                        </li>
+
                         <li class="dropdown"> <a href="<?php echo site_url('page/sell_old_list/148');?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">분양정보</a>
                             <ul class="dropdown-menu">
                                 <li><a href="<?php echo site_url('page/sell_old_list/148/149');?>">분양안내</a></li>

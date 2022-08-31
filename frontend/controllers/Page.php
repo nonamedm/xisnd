@@ -423,6 +423,27 @@ class Page extends Basic_Controller {
         $this->load->view('page/safetymanagement', $this->data);
     }
 
+    public function individual()
+    {
+        $this->fetchPageData();
+        $this->data['sub_type'] = 'sub4';
+        $this->load->view('page/individual', $this->data);
+    }
+
+    public function hrsystem()
+    {
+        $this->fetchPageData();
+        $this->data['sub_type'] = 'sub4';
+        $this->load->view('page/hrsystem', $this->data);
+    }
+
+    public function hrguide()
+    {
+        $this->fetchPageData();
+        $this->data['sub_type'] = 'sub4';
+        $this->load->view('page/hrguide', $this->data);
+    }
+
     public function envmanagement()
     {
         $this->fetchPageData();
