@@ -213,7 +213,7 @@ p.has-error-input {
 
 @media (min-width: 1230px) {
 	.container {
-		width: 1230px;
+		width: 1300px;
 	}
 
 }
@@ -1422,7 +1422,7 @@ footer .ul_right .dropdown-menu li a {
 	position: relative;
 }
 
-@media (max-width: 787px) {
+@media (max-width: 1230px) {
 	header {
 		height: 50px;
 	}
@@ -2386,9 +2386,8 @@ li.active .q-text {
 
 .box_text2 {
 	font-size: 15px;
-	line-height: 15px;
+	line-height: 25px;
 	/*	font-weight: 300;*/
-
 }
 
 .sub1_5_section2 {
@@ -4347,6 +4346,27 @@ li.active .q-text {
 
 	.sub2 .tab-content tr td:nth-child(2) {
 		width: 20% !important;
+	}
+	.box-title {
+		
+	}
+	.circle-title {
+		
+	}
+	.img-title {
+		
+	}
+	.box-contents {
+		padding: 5px 0 0 5% !important;
+	}
+	
+	.box_text1 {
+		
+	
+	}
+	
+	.box_text2 {
+		font-size: 12px !important;
 	}
 
 }
@@ -7758,7 +7778,7 @@ input[type="radio"] .styled:checked+label::after {
 
 @media(min-width:1200px) {
 	nav.menu-center .navbar-center {
-		padding-top: 32px;
+		/* padding-top: 32px; */
 	}
 
 
