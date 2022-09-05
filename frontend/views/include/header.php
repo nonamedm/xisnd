@@ -29,7 +29,7 @@
                                 <li><a href="<?php echo site_url('page/organization/40/45');?>">조직도</a></li>
                                 <li><a href="<?php echo site_url('article/History/40/92');?>">주요연혁</a></li>
                                 <li><a href="<?php echo site_url('page/achievement/40/133');?>">수상실적</a></li>
-                                <li><a href="<?php echo site_url('page/personal/40/147');?>">채용안내 </a></li>
+                                <!-- <li><a href="<?php echo site_url('page/personal/40/147');?>">채용안내 </a></li> -->
                             </ul>
                         </li>
                         <li class="dropdown"> <a href="<?php echo site_url('page/main/41');?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">사업분야</a>
@@ -80,9 +80,10 @@
 
                         <li class="dropdown"> <a href="<?php echo site_url('page/hr/167');?>" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">인재채용</a>
                             <ul class="dropdown-menu">
-                                <li><a href="<?php echo site_url('page/individual/167/168');?>">문의하기</a></li>
-                                <li><a href="<?php echo site_url('page/hrsystem/167/169');?>">다운로드</a></li>
-                                <li><a href="<?php echo site_url('page/hrguide/167/170');?>">오시는길</a></li>
+                                <li><a href="<?php echo site_url('page/individual/167/168');?>">자이S&D인재상</a></li>
+                                <li><a href="<?php echo site_url('page/hrsystem/167/169');?>">인사제도</a></li>
+                                <li><a href="<?php echo site_url('page/hrguide/167/170');?>">채용가이드</a></li>
+                                <li><a href="<?php echo site_url('article/recruitment/40/46');?>">채용공고</a></li>
                           </ul>
                         </li>
 

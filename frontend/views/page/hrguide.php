@@ -1,46 +1,56 @@
 <!DOCTYPE html>
 <html lang="kr">
-	<?php $this->load->view('include/head') ?>
+        <?php $this->load->view('include/head') ?>
 <body>
-	<?php $this->load->view('include/header') ?>
-    <?php $this->load->view('include/bg_common') ?>
-<div class="sub1_1">
-       <div class="sub1_1_section1">
-                <div class="container container_1050">
-                        <div class="row">
-                                <div class="col-xs-12">
-                                        <p class="title_text1">채용가이드</p>
-                                        <div class="line"></div>
-                                        
-                                        
+        <?php $this->load->view('include/header') ?>
+        <?php $this->load->view('include/bg_common') ?>
+
+<div class="sub4_2 sub_content">
+        <div class="container">
+                <div class="row">
+                        <div class="title">
+                        <h1>채용가이드</h1>
+                </div>
+                <div id="hrguide" class="row cs_center text-left" style="margin-top: 20px;">
+                        <div class="col-md-12 col-sm-12">
+                                <h4>자이S&D는 종합부동산서비스기업으로서 도약하기 위한 인재를 찾습니다.</h4>
+                                <div style="display: flex;">
+                                        <div class="box-title">
+                                                <div class="box_text2">채용 프로세스</div>
+                                        </div>
+                                        <div class="box-contents">
+                                                <div class="box_text2">
+                                                
+                                                </div>
+                                        </div>
+                                </div>
+                                <div style="display: flex;">
+                                        <div class="img-title">
+                                                <div class="box_text2" style="line-height: 20px;">신입사원<br/>채용 프로세스</div>
+                                        </div>
+                                        <div class="box-contents">
+                                                <div class="box_text2">
+                                                        <img style="" src="<?php echo base_url()?>resource/frontend/images/process1.png" class="img-responsive center-block">
+                                                </div>
+                                        </div>
+                                </div>
+                                <div style="display: flex;">
+                                        <div class="img-title">
+                                                <div class="box_text2" style="line-height: 20px;">경력사원<br/>채용 프로세스</div>
+                                        </div>
+                                        <div class="box-contents">
+                                                <div class="box_text2">
+                                                        <img style="" src="<?php echo base_url()?>resource/frontend/images/process2.png" class="img-responsive center-block">
+                                                </div>
+                                        </div>
+                                </div>
+                                <div style="display: inline-block;">
                                 </div>
                         </div>
                 </div>
-       </div>
-       <div class="container container_1070">
-        <div class="row">
-            <div class="col-xs-12">
-                                            <p class="company_title2" style="margin-top:0px;">자이S&D는 종합부동산서비스기업으로서 도약하기 위한 인재를 찾습니다.</p>
-				                                       <div class="company_ceo text-left">
-                                            <p>“변화를 선도하고, 최고를 지향하며, 신뢰받는 인재”</p>
-                                            <p>자이S&D의 인재상은 변화를 선도하고 항상 최고를 지향하며 조직과 사회로부터 신뢰받는 인재입니다.</p>
-
-                                            <p>이를 위해 당사는 전략적 인재개발을 통해 우수한 리더와 최고수준의 직무 전문가를 육성하고 있습니다.</p>
-                                            
-			                    <p>올바른 조직문화를 위해 안전하고 쾌적한 근무 환경을 구축하여 일하기 좋은 직장을 만들고자 합니다.</p>
-					
-                                            <p>원활한 사내 커뮤니케이션을 통해 건전하고 생산적인 조직문화를 구축하며 자이S&D의 가치 창출 능력을 향상시키고 있습니다.</p>
-
-
-                                            
-                                         </div>
-            
-            </div>
         </div>
-                                        
-       </div>
 </div>
-	<?php $this->load->view('include/footer') ?>
+        <?php $this->load->view('include/footer') ?>
 	<?php $this->load->view('include/footer_script') ?>
 
 </body>

@@ -7,7 +7,7 @@
     <?php $this->load->view('include/bg_common') ?>
 
     <div class="sub1_5">
-        <div class="sub1_5_section1" style="margin-bottom:7px;">
+        <!-- <div class="sub1_5_section1" style="margin-bottom:7px;">
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
@@ -18,7 +18,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="sub1_5_section2">
             <div class="container">
                 <div class="row" >
