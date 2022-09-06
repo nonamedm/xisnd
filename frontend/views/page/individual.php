@@ -20,9 +20,8 @@
        <div class="container container_1070">
         <div class="row">
             <div class="col-xs-12">
-                                        <!-- <p class="company_title2" style="margin-top:0px;">자이S&D 인재상</p> -->
-				                                       <div class="company_ceo text-left">
-                                            <p>“변화를 선도하고, 최고를 지향하며, 신뢰받는 인재”</p>
+                                        <p class="company_title2" style="margin-top:0px;">“변화를 선도하고, 최고를 지향하며, 신뢰받는 인재”</p>
+                                        <div class="company_ceo text-left">
                                             <p>자이S&D의 인재상은 변화를 선도하고 항상 최고를 지향하며 조직과 사회로부터 신뢰받는 인재입니다.</p>
 
                                             <p>이를 위해 당사는 전략적 인재개발을 통해 우수한 리더와 최고수준의 직무 전문가를 육성하고 있습니다.</p>

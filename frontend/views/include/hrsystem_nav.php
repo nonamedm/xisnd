@@ -15,9 +15,12 @@
 <div id="educulture" class="row cs_center text-left" style="margin-top: 20px; display: block;">
     <div class="col-md-12 col-sm-12">
         <h4>교육제도</h4>
-        <h3>자이S&D는 직무전문성과 리더십을 갖춘 인재 육성을 실천하고 있습니다.</h3>
+        <p style="text-indent: 0.1px;text-align: left;margin: 0 auto; font-size:15px; line-height:1.5;font-family: '맑은 고딕'; margin-bottom:20px;">
+            자이S&D는 직무전문성과 리더십을 갖춘 인재 육성을 실천하고 있습니다.
+        </p>
         
-        <div style="display: flex;">
+        
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">리더 육성</div>
             </div>
@@ -27,7 +30,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">직무전문성 강화</div>
             </div>
@@ -38,7 +41,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">핵심인재 양성</div>
             </div>
@@ -51,9 +54,11 @@
     </div>
     <div class="col-md-12 col-sm-12">
         <h4>조직문화</h4>
-        <h3>각 본부별 조직문화 CA(Change Agent), CC(Culture Coordinator)를 운영하여, 조직문화 개선을 위한 다양한 활동을 전개해 나가고 있습니다.</h3>
+        <p style="text-indent: 0.1px;text-align: left;margin: 0 auto; font-size:15px; line-height:1.5;font-family: '맑은 고딕'; margin-bottom:20px;">
+            각 본부별 조직문화 CA(Change Agent), CC(Culture Coordinator)를 운영하여, 조직문화 개선을 위한 다양한 활동을 전개해 나가고 있습니다.
+        </p>
         
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">인권 보호</div>
             </div>
@@ -63,7 +68,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">차별 금지</div>
             </div>
@@ -73,7 +78,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">안전보건 경영</div>
             </div>
@@ -89,9 +94,11 @@
 <div id="welfare" class="row cs_center text-left" style="margin-top: 20px; display: none;">
     <div class="col-md-12 col-sm-12">
         <h4>복리후생</h4>
-        <h3>자이S&D는 다양한 복리후생 제도를 통하여 구성원의 안정과 Work & Life Balance를 추구하고 있습니다.</h3>
+        <p style="text-indent: 0.1px;text-align: left;margin: 0 auto; font-size:15px; line-height:1.5;font-family: '맑은 고딕'; margin-bottom:20px;">
+            자이S&D는 다양한 복리후생 제도를 통하여 구성원의 안정과 Work & Life Balance를 추구하고 있습니다.
+        </p>
     
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">복지지원금</div>
             </div>
@@ -101,7 +108,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">종합건강검진</div>
             </div>
@@ -111,7 +118,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">단체 상해보험</div>
             </div>
@@ -122,7 +129,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">자녀 학자금지원</div>
             </div>
@@ -132,7 +139,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">경조사 지원</div>
             </div>
@@ -142,7 +149,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">휴양시설 지원</div>
             </div>
@@ -152,7 +159,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">장기근속 포상</div>
             </div>
@@ -162,7 +169,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="box-title">
                 <div class="box_text2">휴가/휴직제도</div>
             </div>
@@ -177,7 +184,7 @@
 <div id="compensation" class="row cs_center text-left" style="margin-top: 20px; display: none;">
     <div class="col-md-12 col-sm-12">
         <h4>성과에 기반한 보상</h4>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="circle-title">
                 <div class="box_text2">① 공정한 성과관리</div>
             </div>
@@ -187,7 +194,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="circle-title">
                 <div class="box_text2">② 합리적 보상</div>
             </div>
@@ -197,7 +204,7 @@
                 </div>
             </div>
         </div>
-        <div style="display: flex;">
+        <div class="hr_div" style="display: flex;">
             <div class="circle-title">
                 <div class="box_text2">③ 성과금 지급</div>
             </div>
@@ -207,9 +214,9 @@
                 </div>
             </div>
         </div>
-        <div style="display: inline-block;">
-        <img style="width:60%;" src="<?php echo base_url()?>resource/frontend/images/compensation1.png" class="img-responsive cs_img center-block">
-        <img style="width:60%;" src="<?php echo base_url()?>resource/frontend/images/compensation2.png" class="img-responsive cs_img center-block">
+        <div style="display: inline-block; text-align: center;">
+        <img class="hr_img" style="width:60%;" src="<?php echo base_url()?>resource/frontend/images/compensation1.png" class="img-responsive cs_img center-block">
+        <img class="hr_img" style="width:60%;" src="<?php echo base_url()?>resource/frontend/images/compensation2.png" class="img-responsive cs_img center-block">
         </div>
     </div>
 </div>
