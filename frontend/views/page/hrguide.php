@@ -12,7 +12,7 @@
                         <h1>채용가이드</h1>
                 </div>
                 <div id="hrguide" class="row cs_center text-left" style="margin-top: 20px;">
-                        <div class="col-md-12 col-sm-12">
+                        <div style="min-height:600px;" class="col-md-12 col-sm-12">
                                 <h4>자이S&D는 종합부동산서비스기업으로서 도약하기 위한 인재를 찾습니다.</h4>
                                 <div style="display: flex;">
                                         <div class="box-title">
@@ -24,7 +24,7 @@
                                                 </div>
                                         </div>
                                 </div>
-                                <div style="display: flex;">
+                                <div class="hrguide" style="display: flex;">
                                         <div class="img-title">
                                                 <div class="box_text2" style="line-height: 20px;">신입사원<br/>채용 프로세스</div>
                                         </div>
@@ -34,7 +34,7 @@
                                                 </div>
                                         </div>
                                 </div>
-                                <div style="display: flex;">
+                                <div class="hrguide" style="display: flex;">
                                         <div class="img-title">
                                                 <div class="box_text2" style="line-height: 20px;">경력사원<br/>채용 프로세스</div>
                                         </div>
