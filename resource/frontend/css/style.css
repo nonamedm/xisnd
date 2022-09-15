@@ -3783,13 +3783,14 @@ li.active .q-text {
 
 .sub2_3_1 .xs_display .display_bg {
 	position: absolute;
-	width: 57.7%;
+	width: 44%;
 	margin-left: -22%;
-	left: 44.7%;
-	top: 66.5%;
+	left: 50%;
+	top: 23%;
 }
 
 .sub2_3_1 .xs_display .display_bg ul {
+	padding: 15px;
 	border-radius: 5px;
 	background: #1a1713;
 }
@@ -3799,7 +3800,7 @@ li.active .q-text {
 	border-right: 1px solid #312f2b;
 	border-bottom: 1px solid #312f2b;
 	cursor: pointer;
-	width: 16.66%;
+	width: 33.33%;
 }
 
 .sub2_3_1 .xs_display .display_bg ul li:nth-child(4),
@@ -3822,15 +3823,16 @@ li.active .q-text {
 
 @media (min-width: 768px) {
 	.sub2_3_1 .xs_display .display_bg {
-		height: 48px;
-		width: 59.4%;
+		height: 217px;
+		width: 364px;
 		border-radius: 15px;
 		margin-left: -185px;
-		left: 45%;
-		top: 66%;
+		left: 50%;
+		top: 68px;
 	}
 
 	.sub2_3_1 .xs_display .display_bg ul {
+		padding: 15px;
 		border-radius: 15px;
 		background: #1a1713;
 	}
@@ -3838,23 +3840,22 @@ li.active .q-text {
 
 @media (min-width: 992px) {
 	.sub2_3_1 .xs_display .display_bg {
-		height: 73px;
-		width: 59.3%;
+		height: 270px;
+		width: 456px;
 		border-radius: 15px;
 		margin-left: -232px;
-		left: 44.3%;
-		top: 66.1%;
+		left: 50%;
+		top: 100px;
 	}
-
 }
 
 @media (min-width: 1200px) {
 	.sub2_3_1 .xs_display .display_bg {
-		width: 57.7%;
+		width: 580px;
 		border-radius: 15px;
 		margin-left: -290px;
-		left: 44.7%;
-		top: 66.5%;
+		left: 50%;
+		top: 120px;
 	}
 }
 
